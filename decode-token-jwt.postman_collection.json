@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "d524a945-db2f-47e2-98bd-015c6e19a835",
+		"name": "decode-token-jwt",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "decode bearer token jwt",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "eyJraWQiOiIxNzY3IiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJpc3MiOiJodHRwczovL2lkcDIucmVuYXVsdC5jb20vbmlkcC9vYXV0aC9uYW0iLCJqdGkiOiIwZDFkNDc5OC1iM2IyLTRmOWQtYmU2MS05MDNmYzlkOWJkYmIiLCJhdWQiOiIyOTJkMDMwMy1lZGY5LTQ3ZmMtYmE3ZC1iMWU2NGM5MzQ1YzciLCJleHAiOjE2NzgyNjIwNTQsImlhdCI6MTY3ODI2MDI1NCwibmJmIjoxNjc4MjYwMjI0LCJzdWIiOiIzNzYyMzEzOTM3MzIzODMxMmQ2MzM0NjIzNjMxMzE2NTYzMmQzOTY1NjEzMjM5NjQzOTM0MmQ2MjMzMzczNzM3NjMzODY2IiwiX3B2dCI6InRvaDJRTThLQ2VNQnFIL1RIZk13d01PWEJCVGxLQTF1S3pFK25veVdNWWFNSERaZXJwRERSSEIwTHFHL015RHFpTW93WENsZ1lSNy8xdFYrT0liY2pkOHQveEkzam1PT3Q0UnpJeVduSS9rQmY1N3diZlZ5dWNUT1lLVHVyTDRqQ050R2ZFTlNqV09rU2NMTU12bEMrZEIvVUJPMmxLZHdHa3h4VVMxTHl1dlZQQWVhdS8yMEp1VXRzZmViV2xPZFN0U3lzNnJjSEZ0ZnZsNmJhUFNNY29sSStTRmo5aDdqZXZpdUI3eGFYczVLd09od0paMmFhTmpPbjVZOTN3YW43Slc3SG42TWNyeWp3S2RJYzlSamVpcTB4R1ZYSTJEVm9BdHhQR1FmR3ozZllOYXFYR3E1ZFpCaWorM0E1TG5JbUwrZ1JoL2tpbTdmb2RwcDEwL3V6YXhJSm9uc0NFeWF3S2ZoQ0orMklqRjZML2JkQWxJWkg3dklhVTIyTnZoS2tQVTJVZDBxRVJOTTMzK2ZNdXNCbWExVTBuL3dBUFdBV0lpQms2Wi8rRlFmdU1QU0k2VjFzdzdPRnZnL292Y1MxSUw4cUNrTkdKWUZjOHg4M0JQNG1jR053a3lQWFVzV3VIQjkzdFlhUThpUVNzSzVBZ1BYZFFNcnZ1T0wwMU94QS9obUNBOVNvd2Q4UWFUNkxPeEkyb0kxejJ6ajRIaFprVW00UmVyT0YyeThMU3RaOWN1SW81R2pMenZoQnBQamdmTDNMT2pJR0d0TlhQSExuMW82YVczdmQyYld1UXY2TmtwMjZPWjh2NkFBNjRUd3BTR09XTVl4ZmJ5ZndLS0QuNyIsInNjb3BlIjpbImFyY2EiLCJwcm9maWxlIiwicm9sZS1jdDEtaXJuNzI1MjkiXSwidWlkIjoianAwOTQzMCIsImZpcnN0bmFtZSI6Ik1vcmFkIiwidXNlckRpcmVjdG9yeSI6ImFyY2EiLCJwb3N0T2ZmaWNlQm94IjoiRlJDTVBXS1IwMDAiLCJwcmVmZXJyZWRMYW5ndWFnZSI6IkZSIiwibWFpbCI6Im1vcmFkLmJvdXlhaHlhb3VpQGFya2V1cC5jb20iLCJjb3N0Q2VudGVyIjoiQUE1MDMyMyIsImNvbXBhbnkiOiJHb29nbGUiLCJwZXJzb25UeXBlIjoiY2F0cHJnciIsInJvbGUtY3QxLWlybjcyNTI5IjoiW2FkbWluLCB0Z3AsIHByb2plY3QsIG9wZV90cHQsIGNhcnJpZXIsIHN1cHBsaWVyXSIsImxhc3RuYW1lIjoiQm91eWFoeWFvdWkiLCJfdGFyZ2V0IjoiSWRlbnRpdHlQcm92aWRlciJ9.HQkT6aRDOSO33-0NOklDM64uiSU3X2Cc5Os0kbbbvncfMIIPd7wGRdL8uKOj1Mx7BKKixRJu0RoWqHjp068myKRmCAefZhOWpK6IbucGgrTvhySsgzcWvc8nZcUMGRUeq99j_BcYzHpH5zfz8jWJxjmo-xBfyvnj1IzYgCM8oDjXMU20vuv1li1jf8Zi4EIMG8rAHjQcKMke6hcg8CQBxJv66erVDHExES6WM1poak8XsLuV2dSpeMBkSStj9obM-VULYwLoLw-wS0DzE_y5xDKwWelXBFLVgFOqp9n5m7dzpicgJycEMZ8paKePpEoBVAfd-Ps_YN90gVYDifamPw",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8081/tokenJwt/decode",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"tokenJwt",
+						"decode"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
